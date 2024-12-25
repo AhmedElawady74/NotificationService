@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sQmG1Wc1bh13bOR4MSIXxi0NgVJGGCZQYRP2sGdqGcI=",
+  "Source": "NotificationGateway",
+  "BasePath": "_content/NotificationGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

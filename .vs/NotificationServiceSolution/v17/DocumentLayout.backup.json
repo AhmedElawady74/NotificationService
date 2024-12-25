@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Windows\\System32\\NotificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\notificationgateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\notificationgateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\models\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\models\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|c:\\windows\\system32\\notificationservice\\notificationgateway\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED4FD98-E232-4B61-B0FD-87C45239C443}|NotificationGateway\\NotificationGateway.csproj|solutionrelative:notificationgateway\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "NotificationGateway\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "NotificationGateway\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:58:26.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NotificationGateway\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NotificationGateway\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:47:33.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NotificationGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NotificationGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T05:54:18.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationRequest.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Models\\NotificationRequest.cs",
+              "RelativeDocumentMoniker": "NotificationGateway\\Models\\NotificationRequest.cs",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Models\\NotificationRequest.cs",
+              "RelativeToolTip": "NotificationGateway\\Models\\NotificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:56:55.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationGateway.csproj",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
+              "RelativeDocumentMoniker": "NotificationGateway\\NotificationGateway.csproj",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\NotificationGateway.csproj",
+              "RelativeToolTip": "NotificationGateway\\NotificationGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T04:55:36.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationGateway\\Program.cs",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Program.cs",
+              "RelativeToolTip": "NotificationGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:00:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationGateway\\appsettings.json",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\appsettings.json",
+              "RelativeToolTip": "NotificationGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T06:02:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Services\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "NotificationGateway\\Services\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Services\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "NotificationGateway\\Services\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:00:01.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NotificationGateway\\appsettings.Development.json",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\appsettings.Development.json",
+              "RelativeToolTip": "NotificationGateway\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T14:18:00.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "NotificationGateway\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Windows\\System32\\NotificationService\\NotificationGateway\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "NotificationGateway\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:09:50.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
